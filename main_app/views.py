@@ -14,7 +14,7 @@ BUCKET='catcol'
 
 # Define the home view
 @login_required
-def add_photo(request, cat_id):
+def add_photo(request, sneakers_id):
     # photo-file will be the "name" attribute on the <input type="file">
     photo_file = request.FILES.get('photo-file', None)
     if photo_file:
