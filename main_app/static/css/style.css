@@ -21,7 +21,8 @@ main {
 }
 
 .button {
-  background-color: khaki !important;
+  background-color: rgb(69, 0, 158) !important;
+  color: white;
 }
 #FormSubBtn {
   align-items: center;
