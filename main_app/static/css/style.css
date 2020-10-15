@@ -1,4 +1,5 @@
-@import url(href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap")
+@import url(href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap");
+
 body {
     display: flex;
     min-height: 100vh;
@@ -19,6 +20,10 @@ main {
 }
 .navbar {
   background-color: rgb(251, 255, 36);
+}
+
+.button {
+  background-color: khaki !important;
 }
 #FormSubBtn {
   align-items: center;
