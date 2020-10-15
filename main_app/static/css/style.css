@@ -1,9 +1,10 @@
+@import url(href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap")
 body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
     background-color: rgb(211, 211, 211);
-
+    font-family: 'Yanone Kaffeesatz', sans-serif !important;
 }
   
 main {
@@ -24,3 +25,16 @@ main {
   align-content: center;
   text-align: center !important;
 }
+
+#button {
+  align-items: center;
+  align-content: center;
+  text-align: center !important;
+}
+
+#button1 {
+  align-items: center;
+  align-content: center;
+  text-align: center !important;
+}
+
