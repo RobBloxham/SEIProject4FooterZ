@@ -24,6 +24,13 @@ main {
   background-color: rgb(69, 0, 158) !important;
   color: white;
 }
+
+.buttons1 {
+  align-items: center;
+  align-content: center;
+  text-align: center !important;
+}
+
 #FormSubBtn {
   align-items: center;
   align-content: center;
