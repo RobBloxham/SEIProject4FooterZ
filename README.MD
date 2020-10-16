@@ -5,13 +5,13 @@ A web app designed to keep track of your shoe collection! </br>
 View the app [here](https://footerz.herokuapp.com/)</br>
 
 ## Visuals
-Trello Board
-[trello](https://trello.com/b/IUjrQHw8/project-4-footerz)</br>
-Wireframe
+Trello Board </br>
+[trello](https://trello.com/b/IUjrQHw8/project-4-footerz) </br>
+Wireframe</br>
 ![Trello Attachment](https://trello-attachments.s3.amazonaws.com/5f7fbedfdb609d24f9f5ec2f/622x1342/458fde3045099e286aa7dc08d1122f10/ftz2.PNG.png)</br>
-ERD
+ERD</br>
 ![Trello Attachment](https://trello-attachments.s3.amazonaws.com/5f7fbecb08191a0549b2be7c/299x350/d359ec4e3ae5d5f02723ed440ece0300/erdWIP.PNG.png)</br>
-Screen shots
+Screen shots</br>
 ![Trello Attachment](https://trello-attachments.s3.amazonaws.com/5f88c9c7044f20637511a644/454x809/5b2f786c9d0f17a7bb0a622219a831c7/unknown2.png)</br>
 ![Trello Attachment](https://trello-attachments.s3.amazonaws.com/5f88c9c7044f20637511a644/452x809/190440474115a00cd4a3ee73463da557/unknown.png)</br>
 
