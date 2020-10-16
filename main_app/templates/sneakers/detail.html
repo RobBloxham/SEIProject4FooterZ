@@ -13,6 +13,10 @@
           <p>Colorway: {{  sneakers.colorway }}</p>
           <p>Year: {{  sneakers.year }}</p>
         </div>
+        <footer class="card-footer">
+          <a href="{% url 'sneakers_update' sneakers.id %}" class="card-footer-item">Edit</a>
+          <a href="{% url 'sneakers_delete' sneakers.id %}" class="card-footer-item">Delete</a>
+        </footer>
       </div>
     
         <!-- Insert photo markup below this comment -->
@@ -22,10 +26,7 @@
         <img src="{{photo.url}}">
       </figure>
     </div>
-    <footer class="card-footer">
-      <a href="{% url 'sneakers_update' sneakers.id %}" class="card-footer-item">Edit</a>
-      <a href="{% url 'sneakers_delete' sneakers.id %}" class="card-footer-item">Delete</a>
-    </footer>
+
   </div> 
     {% empty %}
       <div class="card-panel teal-text center-align">No Photos Uploaded</div>
@@ -33,6 +34,7 @@
     <form action="{% url 'add_photo' sneakers.id %}" enctype="multipart/form-data" method="POST" class="card-panel">
     {% csrf_token %}
     </br>
+  </div>
     <input type="file" name="photo-file" >
     </br></br>
     <input type="submit" class="button" value="Upload Photo">
