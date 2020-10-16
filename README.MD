@@ -6,7 +6,7 @@ View the app [here](https://footerz.herokuapp.com/)</br>
 
 ## Visuals
 Trello Board
-[trello](https://trello.com/b/IUjrQHw8/project-4-footerz)
+[trello](https://trello.com/b/IUjrQHw8/project-4-footerz)</br>
 Wireframe
 ![Trello Attachment](https://trello-attachments.s3.amazonaws.com/5f7fbedfdb609d24f9f5ec2f/622x1342/458fde3045099e286aa7dc08d1122f10/ftz2.PNG.png)</br>
 ERD

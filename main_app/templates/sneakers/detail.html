@@ -18,15 +18,12 @@
           <a href="{% url 'sneakers_delete' sneakers.id %}" class="card-footer-item">Delete</a>
         </footer>
       </div>
-    
-        <!-- Insert photo markup below this comment -->
     {% for photo in sneakers.photo_set.all %}
     <div class="card-image">
       <figure class="image is-4by3">
         <img src="{{photo.url}}">
       </figure>
     </div>
-
   </div> 
     {% empty %}
       <div class="card-panel teal-text center-align">No Photos Uploaded</div>
