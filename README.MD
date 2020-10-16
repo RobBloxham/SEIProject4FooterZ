@@ -33,6 +33,7 @@ Django</br>
 Python</br>
 Heroku</br>
 Django auth</br>
+Postgresql</br>
 Bulma CSS framework</br>
 AWS</br>
 
